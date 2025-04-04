@@ -1,7 +1,7 @@
 ```diff
 male cyber-enthusiast
 i code in a ton of different languages, and work on a ton of projects at the same time.
-you can contact me via github, or on telegram via @jintana
+you can contact me via github, or on telegram via @jiface
 one day i wish to impact the world positively
 thanks! 
 ```
