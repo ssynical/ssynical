@@ -1,16 +1,23 @@
-## Hi there 👋
+# jif
 
-<!--
-**ssynical/ssynical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+making things that work
 
-Here are some ideas to get you started:
+currently working on `luaparse` and learning `rust`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## work
+
+```markdown
+runluau-renderer      -> a renderer made in luau
+koralys               -> luau decompiler & disassembler
+yotsuba               -> rv32ima virtual machine for esp32 [x]
+iptv                  -> iptv streaming backend
+```
+
+## stack
+
+`javascript` `typescript` `python` `react` `node.js` `docker` `aws` `luau` `c++` `c`
+
+---
+
+**[telegram](https://t.me/jiface)** / **[signal](https://signal.me/#p/+jif.02)**
